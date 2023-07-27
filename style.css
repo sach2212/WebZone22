@@ -336,7 +336,7 @@ cursor: pointer;
 .project .p-content .img2{
 
   display: flex;
-  width: 45rem; 
+  width: 49rem; 
   transition: transform  .5s  ease-in-out; 
  }
 
@@ -598,8 +598,8 @@ flex-direction: column;
 
 .logo-data p {
   color: rgb(218, 215, 215);
-  font-size: 1.5rem;
-  /* margin: 2rem 0; */
+  font-size: 1.7rem;
+  margin: 2rem 0;
 }
 
 
@@ -609,11 +609,12 @@ flex-direction: column;
   color: rgb(218, 215, 215);
   margin:  1.5rem 0;
   font-weight: 500;
-font-size: 2rem;
+font-size: 1.7rem;
+text-transform: lowercase;
 }
 .logo-data a i{
 
-padding-right: 1rem;
+/* padding-right: 1rem; */
 
 }
 
